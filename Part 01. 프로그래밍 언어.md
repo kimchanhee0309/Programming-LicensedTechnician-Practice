@@ -19,7 +19,7 @@
 
 <br>
 
-# CHAPTER 03 스크림트 프로그래밍 언어
+# CHAPTER 03 스크립트 프로그래밍 언어
 ### SECTION 01 JavaScript 기초 및 기본 문법
 ### SECTION 02 JavaScript 프로그래밍 원리
 ### SECTION 03 HTML 기초 및 CSS
